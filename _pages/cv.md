@@ -11,53 +11,83 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D - Dalian University of Thecnology, 2006-2010
+  * Supervisor: Professor [Wei Wang](https://faculty.dlut.edu.cn/2000011016/zh_CN/index/745223/list/index.htm)
+  *   *Joint Doctoral Training* with Boston University (Advisor: Prof. Christos G. Cassandras), 2009-2010
+* M.S. - Shenyang University of Technology, 2003-2006
+  * Supervisor: Professor [Jinxue Xu]()
+* B.S. - Shenyang University of Technology, 1999-2003
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Changjiang Scholar Distinguished Professor**  
+  Ministry of Education, China  
+  Aug 2025 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Director, Institute of Intelligent Control**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Sep 2021 – Present
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Secretary, Second Faculty-Student Vertical Party Branch, Institute of Intelligent Control**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Sep 2021 – Present
+
+- **Professor**  
+  School of Control Science and Engineering, Dalian University of Technology  
+  Nov 2019 – Present
+
+- **Assistant to the President**  
+  National Defense Research Institute, Dalian University of Technology  
+  Apr 2021 – Oct 2023
+
+- **Assistant to the Dean**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Oct 2020 – Oct 2023
+
+- **Young Changjiang Scholar**  
+  Ministry of Education, China  
+  Aug 2019 – Oct 2022
+
+- **Deputy Director, Institute of Intelligent Control**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Jan 2017 – Sep 2021
+
+- **Secretary, Second Faculty Party Branch, School of Control Science and Engineering**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Nov 2016 – Jun 2018
+
+- **Ph.D. Supervisor**  
+  School of Control Science and Engineering, Dalian University of Technology  
+  Jul 2015 – Present
+
+- **Visiting Associate Professor**  
+  Department of Systems Engineering, University of Notre Dame, USA  
+  Oct 2015 – Oct 2016
+
+- **Associate Professor**  
+  School of Control Science and Engineering, Dalian University of Technology  
+  Dec 2014 – Oct 2019
+
+- **Assistant to the Dean**  
+  Faculty of Electronic and Information Technology, Dalian University of Technology  
+  Apr 2014 – Oct 2015
+
+- **Lecturer**  
+  School of Control Science and Engineering, Dalian University of Technology  
+  Nov 2010 – Nov 2014
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  For a complete list, please visit the [Publications](/publications/) page.
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  For a complete list, please visit the [Talks](/talks/) page.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  For a complete list, please visit the [Teaching](/teaching/) page.
   
 Service and leadership
 ======
