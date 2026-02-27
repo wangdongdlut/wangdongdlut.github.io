@@ -12,23 +12,17 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.pubs-journal { counter-reset: journal; }
-.pubs-journal ul { padding-left: 0; }
-.pubs-journal li { list-style: none; counter-increment: journal; margin-left: 1.5em; text-indent: -1.5em; }
-.pubs-journal li::before { content: counter(journal) ". "; margin-right: 0.5em; }
-
-.pubs-conf { counter-reset: conf; }
-.pubs-conf ul { padding-left: 0; }
-.pubs-conf li { list-style: none; counter-increment: conf; margin-left: 1.5em; text-indent: -1.5em; }
-.pubs-conf li::before { content: counter(conf) ". "; margin-right: 0.5em; }
+.pubs-journal ul, .pubs-conf ul { padding-left: 0; }
+.pubs-journal li, .pubs-conf li { list-style: none; margin-left: 1.5em; text-indent: -1.5em; }
+.pubs-journal li::before, .pubs-conf li::before { content: "- "; margin-right: 0.5em; }
 </style>
 
-{% capture ja_md %}{% include_relative ../_publications/journal_articles.md %}{% endcapture %}
+{% capture ja_md %}{% include publications/journal_articles.md %}{% endcapture %}
 <div class="pubs-journal">
   {{ ja_md | markdownify }}
 </div>
 
-{% capture cp_md %}{% include_relative ../_publications/conference_papers.md %}{% endcapture %}
+{% capture cp_md %}{% include publications/conference_papers.md %}{% endcapture %}
 <div class="pubs-conf">
   {{ cp_md | markdownify }}
 </div>
