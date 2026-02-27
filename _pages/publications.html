@@ -11,26 +11,27 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<style>
+.pubs-journal { counter-reset: journal; }
+.pubs-journal ul { padding-left: 0; }
+.pubs-journal li { list-style: none; counter-increment: journal; margin-left: 1.5em; text-indent: -1.5em; }
+.pubs-journal li::before { content: counter(journal) ". "; margin-right: 0.5em; }
+
+.pubs-conf { counter-reset: conf; }
+.pubs-conf ul { padding-left: 0; }
+.pubs-conf li { list-style: none; counter-increment: conf; margin-left: 1.5em; text-indent: -1.5em; }
+.pubs-conf li::before { content: counter(conf) ". "; margin-right: 0.5em; }
+</style>
+
+{% capture ja_md %}{% include_relative ../_publications/journal_articles.md %}{% endcapture %}
+<div class="pubs-journal">
+  {{ ja_md | markdownify }}
+</div>
+
+{% capture cp_md %}{% include_relative ../_publications/conference_papers.md %}{% endcapture %}
+<div class="pubs-conf">
+  {{ cp_md | markdownify }}
+</div>
 
 
 
