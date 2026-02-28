@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 **Professor and Ph.D. Supervisor** School of Control Science and Engineering, [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/)  
 **"Changjiang Scholar" Distinguished Professor** (Ministry of Education)  
 **Chief Scientist**, National Key R&D Program of China  
