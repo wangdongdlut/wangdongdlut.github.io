@@ -48,7 +48,7 @@ redirect_from:
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
 
-    
+<div class="mermaid">
 flowchart TB
     %% 样式定义
     classDef year fill:#ffffff,stroke:#0366d6,stroke-width:2px,color:#0366d6,font-weight:bold,border-radius:50%;
@@ -71,3 +71,9 @@ flowchart TB
     Y4 --- Edu4["🎓 2009.09 - 2010.09<br>Joint Ph.D. Researcher, Systems Engineering<br>Boston University, USA<br>Advisor: Prof. Christo Cassandras"]:::rightBox
     
     Edu5["🎓 2006.02 - 2010.10<br>Ph.D. in Control Science and Engineering<br>Dalian University of Technology<br>Advisor: Prof. Wei Wang"]:::leftBox --- Y5
+</div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
