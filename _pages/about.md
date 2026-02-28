@@ -47,3 +47,40 @@ redirect_from:
   * **Secretary-General**, 36th Chinese Control Conference (CCC) & 25th Chinese Process Control Conference (CPCC).
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
+  * 
+  ### 🎓 Education
+> **2006.02 - 2010.10** | **Ph.D. in Control Science and Engineering** > *Dalian University of Technology (DUT)* | Advisor: Prof. Wei Wang
+> 
+> **2009.09 - 2010.09** | **Joint Ph.D. Researcher in Systems Engineering** > *Boston University, USA* | Advisor: Prof. Christo Cassandras
+> 
+> **2003.09 - 2006.04** | **M.S. in Information Science and Engineering** > *Shenyang University of Technology* | Advisor: Prof. Jinxue Xu
+> 
+> **1999.09 - 2003.07** | **B.S. in Electrical Engineering** > *Shenyang University of Technology*
+
+### 💼 Work Experience
+
+#### Academic Appointments
+> **2025.08 - Present** | **"Changjiang Scholar" Distinguished Professor** > *Ministry of Education, China*
+>
+> **2019.11 - Present** | **Professor & Ph.D. Supervisor** (Supervisor since 2015.07)  
+> *School of Control Science and Engineering, DUT*
+>
+> **2019.08 - 2022.10** | **Young Changjiang Scholar** > *Ministry of Education, China*
+>
+> **2015.10 - 2016.10** | **Visiting Associate Professor** > *Dept. of Systems Engineering, University of Notre Dame, USA*
+>
+> **2014.12 - 2019.10** | **Associate Professor** > *School of Control Science and Engineering, DUT*
+>
+> **2010.11 - 2014.11** | **Lecturer** > *School of Control Science and Engineering, DUT*
+
+#### Administrative & Professional Service
+> **2021.09 - Present** | **Director** (Deputy Director: 2017.01 - 2021.09)  
+> *Institute of Intelligent Control, EEIE, DUT*
+>
+> **2021.04 - 2023.10** | **Assistant to the Dean** > *Institute of National Defense Research, DUT*
+>
+> **2014.04 - 2023.10** | **Assistant to the Dean** (Multiple Tenures)  
+> *Faculty of Electronic Information and Electrical Engineering (EEIE), DUT*
+>
+> **2016.11 - Present** | **Party Branch Secretary** (Staff & Vertical Branches)  
+> *Institute of Intelligent Control / School of Control Science, DUT*
