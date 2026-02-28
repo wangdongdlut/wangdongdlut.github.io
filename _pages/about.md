@@ -47,3 +47,19 @@ redirect_from:
   * **Secretary-General**, 36th Chinese Control Conference (CCC) & 25th Chinese Process Control Conference (CPCC).
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
+
+#### 🎓 Education History
+> **2009.09 - 2010.09** | **Joint Ph.D. Researcher**, Systems Engineering
+> *Boston University, USA* (Advisor: Prof. Christo Cassandras)
+> 
+> **2006.02 - 2010.10** | **Ph.D. in Control Science and Engineering**
+> *Dalian University of Technology* (Advisor: Prof. Wei Wang)
+> 
+> **2003.09 - 2006.04** | **M.S. in Information Science and Engineering**
+> *Shenyang University of Technology* (Advisor: Prof. Jinxue Xu)
+> 
+> **1999.09 - 2003.07** | **B.S. in Electrical Engineering**
+> *Shenyang University of Technology*
+> 
+> **1996.09 - 1999.07** | **High School Diploma**
+> *Hegang No. 3 High School*
