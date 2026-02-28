@@ -47,7 +47,8 @@ redirect_from:
   * **Secretary-General**, 36th Chinese Control Conference (CCC) & 25th Chinese Process Control Conference (CPCC).
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
-  * 
+
+    
 flowchart TB
     %% 样式定义
     classDef year fill:#ffffff,stroke:#0366d6,stroke-width:2px,color:#0366d6,font-weight:bold,border-radius:50%;
