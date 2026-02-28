@@ -48,7 +48,7 @@ redirect_from:
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
 
-#### 🎓 Education History
+### 🎓 Education History
 > **2009.09 - 2010.09** | **Joint Ph.D. Researcher**, Systems Engineering
 > *Boston University, USA* (Advisor: Prof. Christo Cassandras)
 > 
@@ -64,7 +64,7 @@ redirect_from:
 > **1996.09 - 1999.07** | **High School Diploma**
 > *Hegang No. 3 High School*
 
-#### 💼 Work Experience
+### 💼 Work Experience
 > **2025.08 - Present** | **"Changjiang Scholar" Distinguished Professor**  
 > *Ministry of Education, China*  
 > 
