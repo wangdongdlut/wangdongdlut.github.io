@@ -63,3 +63,22 @@ redirect_from:
 > 
 > **1996.09 - 1999.07** | **High School Diploma**
 > *Hegang No. 3 High School*
+
+#### 💼 Work Experience
+> **2025.08 - Present** | **"Changjiang Scholar" Distinguished Professor**  
+> *Ministry of Education, China*  
+> 
+> **2019.11 - Present** | **Professor & Ph.D. Supervisor** (Supervisor since 2015.07)  
+> *School of Control Science and Engineering, DUT*  
+> 
+> **2019.08 - 2022.10** | **Young Changjiang Scholar**  
+> *Ministry of Education, China*  
+> 
+> **2015.10 - 2016.10** | **Visiting Associate Professor**  
+> *Dept. of Systems Engineering, University of Notre Dame, USA*  
+> 
+> **2014.12 - 2019.10** | **Associate Professor**  
+> *School of Control Science and Engineering, DUT*  
+> 
+> **2010.11 - 2014.11** | **Lecturer**  
+> *School of Control Science and Engineering, DUT*
