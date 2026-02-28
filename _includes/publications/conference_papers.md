@@ -1,4 +1,4 @@
-## Publications
+## Conference Publications
 
 ### 2025
 * Qinghui Pan, Jie Lian, Yadong Zhao, Chaochao Qiu, Dong Wang. **Detection for Harvesting with an Active Illumination Camera System and DUTU2-Net**. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2025: 5476-5481. **(Best Paper Award)**
