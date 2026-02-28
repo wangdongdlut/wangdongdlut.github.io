@@ -1,14 +1,50 @@
 ---
 permalink: /
-title: "Dong Wang – Control, Multi-Agent Systems & Robotics"
+title: "Dong Wang | 王东"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Professor and Ph.D. Supervisor at [Dalian University of Technology](https://www.dlut.edu.cn/), appointed as a Changjiang Scholar Distinguished Professor by China’s Ministry of Education and serving as Chief Scientist of a National Key R&D Program. I lead the Institute of Intelligent Control and oversee the university’s degree programs in Control Science and Engineering and Electronics & Information.
+**Professor and Ph.D. Supervisor** School of Control Science and Engineering, [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/)  
+**"Changjiang Scholar" Distinguished Professor** (Ministry of Education)  
+**Chief Scientist**, National Key R&D Program of China  
+**Director**, Institute of Intelligent Control
 
-My research lies at the intersection of **multi-agent systems**, **reinforcement learning**, and **collaborative robotics—with a focus on distributed control and optimization under communication constraints, noise, and dynamic network topologies**. I have published over 150 papers, including 6 *Automatica* (5 long), 4 *IEEE Transactions on Automatic Control*, and 40+ other IEEE Transactions articles, totaling 5,000+ Google Scholar citations. I am author of a Springer monograph, holder of 16 patents, and recipient of multiple awards, including two Liaoning Provincial Natural Science Prizes and the Wu Wenjun AI Science Award.
+---
 
-I serve as Associate Editor for *Information Sciences* and *Neurocomputing*, Senior Member of IEEE, and active organizer of major conferences (e.g., Secretary-General of the Chinese Control Conference). My lab develops real-world multi-robot platforms—integrating wheeled robots, drones, and binocular vision—for applications in formation control and autonomous manipulation.
+### 🔬 Research Focus
+* **Multi-agent Systems:** Distributed control, optimization, and coordination under communication constraints and dynamic topologies.
+* **Learning & Games:** Reinforcement learning and game-theoretic confrontation.
+* **Robotics:** Multi-robot collaborative control and autonomous manipulation (UAVs/UGVs).
+
+### 📈 Publications & Impact
+* **1 English Monograph** published by **Springer**.
+* **150+** peer-reviewed papers in core journals and conferences (80+ SCI-indexed).
+* **Top-Tier Journal Record (First/Corresponding Author):**
+  * **6** papers in *Automatica* (including 5 Full/Regular Papers).
+  * **4** papers in *IEEE Transactions on Automatic Control*.
+  * **40+** papers in other *IEEE Transactions* (e.g., TNNLS, TCYB).
+* **5,000+** Google Scholar Citations; recognized by 30+ Academicians and IEEE Fellows.
+* **16** Authorized Invention Patents and **5** Software Copyrights.
+
+### 💼 Research Projects (PI)
+* **National Key R&D Program of China** (Chief Scientist)
+* **Key Projects & General Programs**, National Natural Science Foundation of China (NSFC)
+* **Joint Fund of the Ministry of Education** for Equipment Pre-research
+* **Basic Research Strengthening Program** (JKW)
+* **"Xingliao Talents" Youth Top-notch Program** of Liaoning Province
+
+### 🏆 Honors & Professional Service
+* **Honors:**
+  * **Best Conference Paper Award** (Unmanned Systems), 2nd Int. Conf. on Intelligent Automation and System Safety (2025).
+  * **Hot Paper Award**, *SCIENCE CHINA Information Sciences* (2024).
+  * **Second Prize (twice)**, Natural Science Award of Liaoning Province.
+  * **Second Prize**, Wu Wenjun AI Natural Science Award.
+  * **Guan Zhao-Zhi Award Nomination**, 36th Chinese Control Conference (2017).
+* **Leadership & Service:**
+  * **Senior Member**, IEEE.
+  * **Secretary-General**, 36th Chinese Control Conference (CCC) & 25th Chinese Process Control Conference (CPCC).
+  * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
+  * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
