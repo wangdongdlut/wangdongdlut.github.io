@@ -48,28 +48,25 @@ redirect_from:
   * **Vice Director**, Youth Working Committee of Chinese Institute of Command and Control (CICC).
   * **Associate Editor**, *Information Sciences* and *Neurocomputing*.
   * 
- ### 🎓 Education History
+flowchart TB
+    %% 样式定义
+    classDef year fill:#ffffff,stroke:#0366d6,stroke-width:2px,color:#0366d6,font-weight:bold,border-radius:50%;
+    classDef leftBox fill:#f6f8fa,stroke:#e1e4e8,stroke-width:1px,color:#24292e,text-align:right;
+    classDef rightBox fill:#f6f8fa,stroke:#e1e4e8,stroke-width:1px,color:#24292e,text-align:left;
 
-| | Time Axis | |
-| ---: | :---: | :--- |
-| **Ph.D. in Control Science**<br>*Dalian University of Technology*<br>Advisor: Prof. Wei Wang | **2006.02 - 2010.10**<br>🔹 | |
-| | **2009.09 - 2010.09**<br>🔹 | **Joint Ph.D. Researcher**<br>*Boston University, USA*<br>Advisor: Prof. C. Cassandras |
-| **M.S. in Information Science**<br>*Shenyang University of Technology*<br>Advisor: Prof. Jinxue Xu | **2003.09 - 2006.04**<br>🔹 | |
-| | **1999.09 - 2003.07**<br>🔹 | **B.S. in Electrical Engineering**<br>*Shenyang University of Technology* |
-| | 🔽 | |
+    %% 中央时间轴
+    Y1((1999)):::year --> Y2((2003)):::year
+    Y2 --> Y3((2006)):::year
+    Y3 --> Y4((2009)):::year
+    Y4 --> Y5((2010)):::year
 
-<br>
-
-### 💼 Academic & Professional Appointments
-
-| | Time Axis | |
-| ---: | :---: | :--- |
-| **"Changjiang Scholar" Distinguished Professor**<br>*Ministry of Education, China* | **2025.08 - Present**<br>🔹 | |
-| | **2021.09 - Present**<br>🔹 | **Director / Party Branch Secretary**<br>*Institute of Intelligent Control, DUT* |
-| **Professor & Ph.D. Supervisor**<br>*School of Control Science, DUT* | **2019.11 - Present**<br>🔹 | |
-| | **2019.08 - 2022.10**<br>🔹 | **Young Changjiang Scholar**<br>*Ministry of Education, China* |
-| **Visiting Associate Professor**<br>*University of Notre Dame, USA* | **2015.10 - 2016.10**<br>🔹 | |
-| | **2014.12 - 2019.10**<br>🔹 | **Associate Professor**<br>*School of Control Science, DUT* |
-| **Assistant to the Dean**<br>*(Multiple Tenures in EEIE & Defense)*<br>*Dalian University of Technology* | **2014.04 - 2023.10**<br>🔹 | |
-| | **2010.11 - 2014.11**<br>🔹 | **Lecturer**<br>*School of Control Science, DUT* |
-| | 🔽 | |
+    %% 左右交替挂载教育经历
+    Edu1["🎓 1996.09 - 1999.07<br>High School Diploma<br>Hegang No. 3 High School"]:::leftBox --- Y1
+    
+    Y2 --- Edu2["🎓 1999.09 - 2003.07<br>B.S. in Electrical Engineering<br>Shenyang University of Technology"]:::rightBox
+    
+    Edu3["🎓 2003.09 - 2006.04<br>M.S. in Information Science and Engineering<br>Shenyang University of Technology<br>Advisor: Prof. Jinxue Xu"]:::leftBox --- Y3
+    
+    Y4 --- Edu4["🎓 2009.09 - 2010.09<br>Joint Ph.D. Researcher, Systems Engineering<br>Boston University, USA<br>Advisor: Prof. Christo Cassandras"]:::rightBox
+    
+    Edu5["🎓 2006.02 - 2010.10<br>Ph.D. in Control Science and Engineering<br>Dalian University of Technology<br>Advisor: Prof. Wei Wang"]:::leftBox --- Y5
