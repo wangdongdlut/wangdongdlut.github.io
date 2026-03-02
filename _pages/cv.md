@@ -55,21 +55,52 @@ This group focuses on:
 
 ### Faculty
 
-- Prof. XXX (Director)
-- Dr. XXX
-- Dr. XXX
-
+- Prof. Dong Wang (Director)
 ### Ph.D. Students
 
-- Student A
-- Student B
-- Student C
+- 潘青慧
+- 邱超超
+- 潘恩收
+- 徐晓鹏
+- 杜俊鹏
+- 刘帅
+- 田鹏
+- 廉磊
+- 陈一帆
+- 王阔
+- 王海霞
+- 张子杨
+- 赵亚冬
+- 刘家硕
+- 张世林
+- 王东
 
 ### Master Students
 
-- Student D
-- Student E
-- Student F
+- 刘仲源
+- 贾少杰
+- 李宜蔗
+- 杨舒琦
+- 陈嘉颖
+- 刘志龙
+- 李诺
+- 马绍东
+- 顾盛
+- 罗雨欣
+- 姚文博
+- 程前
+- 刘梓旭
+- 朱炳阳
+- 齐泽轩
+- 苏文鑫
+- 李旻
+- 班泽博
+- 冯甲乙
+- 李超
+- 王晓斌
+- 陈庆博
+- 王琨
+- 彭君
 
 ---
 
