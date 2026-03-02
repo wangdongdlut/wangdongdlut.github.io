@@ -30,9 +30,9 @@ This group focuses on:
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/lab/robot1.png" width="300">
-  <img src="/images/lab/robot2.png" width="300">
-  <img src="/images/lab/robot2.png" width="300">
+  <img src="/images/123.jpg" width="300">
+  <img src="/images/番茄采摘机器人.png" width="300">
+  <img src="/images/双臂机器人.png" width="300">
 </div>
 
 ---
@@ -49,9 +49,9 @@ This group focuses on:
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/lab/uav1.png" width="300">
-  <img src="/images/lab/uav2.png" width="300">
-  <img src="/images/lab/uav3.png" width="300">
+  <img src="/images/321.jpg" width="300">
+  <img src="/images/固定翼.png" width="300">
+  <img src="/images/无人机.png" width="300">
 </div>
 
 ---
