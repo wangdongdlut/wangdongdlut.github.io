@@ -29,7 +29,7 @@ This group focuses on:
 
 #### Experimental Platforms
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/1234.jpg" width="300">
+  <img src="/images/1234.jpg" width="900">
 </div>
 
 ### 2️⃣ Multi-UAV Cooperative Search Group
