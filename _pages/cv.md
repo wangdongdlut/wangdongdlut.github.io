@@ -28,18 +28,9 @@ This group focuses on:
 - Multi-arm collaborative coordination
 
 #### Experimental Platforms
-<div class="lab-grid">
-  <div class="left-img">
-    <img src="/images/双臂机器人.jpg" width="300">
-  </div>
-  <div class="right-top">
-    <img src="/images/123.jpg" width="300">
-  </div>
-  <div class="right-bottom">
-    <img src="/images/番茄采摘机器人.png" width="280">
-  </div>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/1234.jpg" width="300">
 </div>
----
 
 ### 2️⃣ Multi-UAV Cooperative Search Group
 
