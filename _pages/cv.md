@@ -30,8 +30,9 @@ This group focuses on:
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/lab/robot1.jpg" width="300">
-  <img src="/images/lab/robot2.jpg" width="300">
+  <img src="/images/lab/robot1.png" width="300">
+  <img src="/images/lab/robot2.png" width="300">
+  <img src="/images/lab/robot2.png" width="300">
 </div>
 
 ---
@@ -40,17 +41,17 @@ This group focuses on:
 
 This group focuses on:
 
-- Distributed Model Predictive Control (DMPC)
-- Ant Colony Optimization (ACO)-based search
-- Communication-constrained information fusion
-- Multi-agent consensus under packet loss
-- Target probability map estimation
+- Cooperative decision-making for multi-UAV systems in uncertain environments
+- Autonomous coordination and large-scale area exploration
+- Distributed collaboration under communication and resource constraints
+- Robust collective behavior in dynamic and partially observable scenarios
 
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/lab/uav1.jpg" width="300">
-  <img src="/images/lab/uav2.jpg" width="300">
+  <img src="/images/lab/uav1.png" width="300">
+  <img src="/images/lab/uav2.png" width="300">
+  <img src="/images/lab/uav3.png" width="300">
 </div>
 
 ---
