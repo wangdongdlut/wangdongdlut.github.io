@@ -19,7 +19,7 @@ Our mission is to integrate theoretical advances in control, optimization, and c
 
 ## 🔬 Research Groups
 
-### 1️⃣ Robotic Manipulation Group (Mechanical Arm Team)
+### 1️⃣ Robotic Manipulation Group
 
 This group focuses on:
 
@@ -61,11 +61,13 @@ Beyond research, our laboratory values teamwork, collaboration, and academic exc
 We regularly organize group seminars, outdoor activities, conference participation, and celebration events.
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/life1.jpg" width="300">
-  <img src="/images/life2.jpg" width="300">
-  <img src="/images/life3.jpg" width="300">
+  <img src="/images/1.jpg" width="300">
+  <img src="/images/2.jpg" width="300">
 </div>
-
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/3.jpg" width="300">
+  <img src="/images/4.jpg" width="300">
+</div>
 ---
 
 ## 👥 Lab Members
@@ -74,60 +76,74 @@ We regularly organize group seminars, outdoor activities, conference participati
 
 - Prof. Dong Wang (Director)
 
+---
+
 ### Ph.D. Students
 
-- 潘青慧  
-- 邱超超  
-- 潘恩收  
-- 徐晓鹏  
-- 杜俊鹏  
-- 刘帅  
-- 田鹏  
-- 廉磊  
-- 陈一帆  
-- 王阔  
-- 王海霞  
-- 张子杨  
-- 赵亚冬  
-- 刘家硕  
-- 张世林  
-- 王东
-- 王琨
-- 李旻
-- 李超  
+- Qinghui Pan  
+- Chaochao Qiu  
+- Enshou Pan  
+- Xiaopeng Xu  
+- Junpeng Du  
+- Shuai Liu  
+- Peng Tian  
+- Lei Lian  
+- Yifan Chen  
+- Kuo Wang  
+- Haixia Wang  
+- Ziyang Zhang  
+- Yadong Zhao  
+- Jiashuo Liu  
+- Shilin Zhang  
+- Dong Wang  
+- Kun Wang  
+- Min Li  
+- Chao Li  
+
+---
 
 ### Master Students
 
-- 刘仲源  
-- 贾少杰  
-- 李宜蔗  
-- 杨舒琦  
-- 陈嘉颖  
-- 刘志龙  
-- 李诺  
-- 马绍东  
-- 顾盛  
-- 罗雨欣  
-- 姚文博  
-- 程前  
-- 刘梓旭  
-- 朱炳阳  
-- 齐泽轩  
-- 苏文鑫  
-- 班泽博  
-- 冯甲乙  
-- 王晓斌  
-- 陈庆博  
-- 彭君
-- 刘琪
-- 迟佳慧
-- 王易
-- 宫以兵
-- 杨佳伊
-- 尚天骄
-- 廖智成
-- 王继延
-- 李鑫宇
+- Zhongyuan Liu  
+- Shaojie Jia  
+- Yizhe Li  
+- Shuqi Yang  
+- Jiaying Chen  
+- Zhilong Liu  
+- Nuo Li  
+- Shaodong Ma  
+- Sheng Gu  
+- Yuxin Luo  
+- Wenbo Yao  
+- Qian Cheng  
+- Zixu Liu  
+- Bingyang Zhu  
+- Zexuan Qi  
+- Wenxin Su  
+- Zebo Ban  
+- Jiayi Feng  
+- Xiaobin Wang  
+- Qingbo Chen  
+- Jun Peng  
+- Qi Liu  
+- Jiahui Chi  
+- Yi Wang  
+- Yibing Gong  
+- Jiayi Yang  
+- Tianjiao Shang  
+- Zhicheng Liao  
+- Jiyan Wang  
+- Xinyu Li  
+
+---
+
+## 🎓 Graduated Students
+
+- Zhu Wang – Jilin University  
+- Mingfei Chen – Dalian Maritime University  
+- Jiaxun Liu – Ludong University  
+- Yongxiang Dong – Nanyang Normal University  
+- Dong Wang – China University of Petroleum (Karamay Campus)
 
 ## 📢 Open Positions
 
