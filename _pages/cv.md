@@ -1,93 +1,95 @@
 ---
 layout: archive
 permalink: /lab/
+title: "Intelligent Control Laboratory"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 🏢 About the Lab
 
-Education
-======
-* Ph.D - Dalian University of Thecnology, 2006 - 2010
-  * Supervisor: Professor [Wei Wang](https://faculty.dlut.edu.cn/2000011016/zh_CN/index/745223/list/index.htm)
-  *   *Joint Doctoral Training* with Boston University (Advisor: Prof. Christos G. Cassandras), 2009 - 2010
-* M.S. - Shenyang University of Technology, 2003 - 2006
-  * Supervisor: Professor [Jinxue Xu]()
-* B.S. - Shenyang University of Technology, 1999 - 2003
+The Intelligent Control Laboratory (ICL) is affiliated with the School of Control Science and Engineering, Dalian University of Technology.  
+The lab focuses on distributed control, multi-agent systems, and intelligent robotics under communication constraints and uncertain environments.
 
-Work experience
-======
-- **Changjiang Scholar Distinguished Professor**  
-  Ministry of Education, China  
-  Aug 2025 – Present
+We aim to bridge theoretical advances in control and optimization with real-world robotic platforms.
 
-- **Director, Institute of Intelligent Control**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Sep 2021 – Present
+---
 
-- **Secretary, Second Faculty-Student Vertical Party Branch, Institute of Intelligent Control**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Sep 2021 – Present
+## 🔬 Research Groups
 
-- **Assistant to the President**  
-  National Defense Research Institute, Dalian University of Technology  
-  Apr 2021 – Oct 2023
+### 1️⃣ Robotic Manipulation Group (Mechanical Arm Team)
 
-- **Assistant to the Dean**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Oct 2020 – Oct 2023
+This group focuses on:
 
-- **Professor**  
-  School of Control Science and Engineering, Dalian University of Technology  
-  Nov 2019 – Present
+- Autonomous manipulation
+- Vision-guided robotic control
+- Learning-based motion planning
+- Multi-arm collaborative coordination
 
-- **Young Changjiang Scholar**  
-  Ministry of Education, China  
-  Aug 2019 – Oct 2022
+#### Experimental Platforms
 
-- **Deputy Director, Institute of Intelligent Control**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Jan 2017 – Sep 2021
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/lab/robot1.jpg" width="300">
+  <img src="/images/lab/robot2.jpg" width="300">
+</div>
 
-- **Secretary, Second Faculty Party Branch, School of Control Science and Engineering**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Nov 2016 – Jun 2018
+---
 
-- **Visiting Associate Professor**  
-  Department of Systems Engineering, University of Notre Dame, USA  
-  Oct 2015 – Oct 2016
+### 2️⃣ Multi-UAV Cooperative Search Group
 
-- **Ph.D. Supervisor**  
-  School of Control Science and Engineering, Dalian University of Technology  
-  Jul 2015 – Present
+This group focuses on:
 
-- **Associate Professor**  
-  School of Control Science and Engineering, Dalian University of Technology  
-  Dec 2014 – Oct 2019
+- Distributed Model Predictive Control (DMPC)
+- Ant Colony Optimization (ACO)-based search
+- Communication-constrained information fusion
+- Multi-agent consensus under packet loss
+- Target probability map estimation
 
-- **Assistant to the Dean**  
-  Faculty of Electronic and Information Technology, Dalian University of Technology  
-  Apr 2014 – Oct 2015
+#### Experimental Platforms
 
-- **Lecturer**  
-  School of Control Science and Engineering, Dalian University of Technology  
-  Nov 2010 – Nov 2014
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/lab/uav1.jpg" width="300">
+  <img src="/images/lab/uav2.jpg" width="300">
+</div>
 
+---
 
-Publications
-======
-  For a complete list, please visit the [Publications](/publications/) page.
-  
-Talks
-======
-  For a complete list, please visit the [Talks](/talks/) page.
-  
-Teaching
-======
-  For a complete list, please visit the [Teaching](/teaching/) page.
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 👥 Lab Members
+
+### Faculty
+
+- Prof. XXX (Director)
+- Dr. XXX
+- Dr. XXX
+
+### Ph.D. Students
+
+- Student A
+- Student B
+- Student C
+
+### Master Students
+
+- Student D
+- Student E
+- Student F
+
+---
+
+## 🛠 Laboratory Facilities
+
+- Fixed-wing UAV platforms
+- Multi-rotor UAV experimental systems
+- Industrial robotic manipulators
+- GPU servers for large-scale simulation
+- Real-time communication testbed
+
+---
+
+## 📢 Open Positions
+
+We are always looking for motivated Ph.D. students, Master students, and visiting scholars.  
+
+Interested applicants are encouraged to contact:  
+📧 your_email@dlut.edu.cn
