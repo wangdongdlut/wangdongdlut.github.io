@@ -61,13 +61,9 @@ Beyond research, our laboratory values teamwork, collaboration, and academic exc
 We regularly organize group seminars, outdoor activities, conference participation, and celebration events.
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/1.jpg" width="300">
-  <img src="/images/2.jpg" width="300">
+  <img src="/images/5.jpg" width="300">
 </div>
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/3.jpg" width="300">
-  <img src="/images/4.jpg" width="300">
-</div>
+
 ---
 
 ## 👥 Lab Members
