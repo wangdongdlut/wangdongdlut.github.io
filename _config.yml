@@ -29,13 +29,15 @@ author:
   bio              : "Professor at Dalian University of Technology."
   location         : "Dalian, China"
   employer         : "Dalian University of Technology"
-  uri              : # URL
-  email            : "dwang@dlut.edu.cn" 
-
+  [cite_start]uri              : "https://faculty.dlut.edu.cn/dongwang/zh_CN/index.htm" 
+  [cite_start]email            : "dwang@dlut.edu.cn"
+  
   # Academic websites
-
   googlescholar    : "https://scholar.google.com/citations?user=4clYWKIAAAAJ"
   orcid            : "https://orcid.org/0000-0002-2493-1032"
+  
+  # Additional contact
+  gmail            : "wangdongandy@gmail.com" 
 
 
 
