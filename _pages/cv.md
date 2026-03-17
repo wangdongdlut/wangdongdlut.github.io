@@ -48,9 +48,9 @@ This group focuses on:
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/321.jpg" width="300">
-  <img src="/images/固定翼.png" width="300">
-  <img src="/images/无人机.png" width="300">
+  <img src="/images/7.jpg" width="300">
+  <img src="/images/8.png" width="300">
+  <img src="/images/9.png" width="300">
 </div>
 
 ---
