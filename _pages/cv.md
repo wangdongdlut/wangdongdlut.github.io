@@ -48,7 +48,7 @@ This group focuses on:
 #### Experimental Platforms
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-  <img src="/images/3456.jpg" width="900">
+  <img src="/images/3456.jpg" width="600">
 </div>
 
 ## 🏆 Awards & Honors
