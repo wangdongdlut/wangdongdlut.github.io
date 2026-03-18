@@ -56,15 +56,14 @@ This group focuses on:
 ## 🏆 Awards & Honors
 
 **National Artificial Intelligence Application Scenario Innovation Challenge** 
-<div style="margin-top:20px;">
-  <img src="/images/award_ai_challenge.jpg" width="300" alt="National AI Challenge First Prize">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/award_ai_challenge.jpg" width="300">
 </div>
 
 **2024 World Robot Contest (WRC) Championship**
-<div style="margin-top:20px;">
-  <img src="/images/award_wrc_2024.jpg" width="300" alt="2024 World Robot Contest Third Prize">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <img src="/images/award_wrc_2024.jpg" width="300">
 </div>
-
 ## 📸 Lab Activities & Life
 
 Beyond research, our laboratory values teamwork, collaboration, and academic exchange.  
