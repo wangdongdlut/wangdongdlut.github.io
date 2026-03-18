@@ -53,7 +53,6 @@ This group focuses on:
   <img src="/images/9.png" width="300">
 </div>
 
----
 ## 🏆 Awards & Honors
 
 **National Artificial Intelligence Application Scenario Innovation Challenge** <div style="margin-top:10px;">
@@ -65,37 +64,7 @@ This group focuses on:
 </div>
 ---
 
-## 🎥 Research Demos
-<div style="text-align: center; margin-bottom: 20px;">
-  <video width="800" controls>
-    <source src="/images/agri_robot_comp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>2024 World Robot Contest: Agricultural Robot Field Demonstration.</i></p>
-</div>
 
----
-
-### 🦾 2. Robotic Arm & Manipulation (Teaching)
-<div style="text-align: center; margin-bottom: 20px;">
-  <video width="800" controls>
-    <source src="/images/arm_teaching.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>Robotic Arm Manipulation: Motion Planning and Educational Demo.</i></p>
-</div>
-
----
-
-### 🛸 3. Anti-UAV & Security (Research)
-结合多无人机协同搜索算法 ，我们开展了针对非法无人机（“黑飞”）的探测、跟踪与反制技术研究。
-<div style="text-align: center;">
-  <video width="800" controls>
-    <source src="/images/anti_uav_security.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>UAV Swarm for Cooperative Search and Counter-UAV Missions [cite: 68-70].</i></p>
-</div>
 
 ## 📸 Lab Activities & Life
 
