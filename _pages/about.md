@@ -60,9 +60,7 @@ redirect_from:
 > 
 > **1999.09 - 2003.07** | **B.S. in Electrical Engineering**
 > *Shenyang University of Technology*
-> 
-> **1996.09 - 1999.07** | **High School Diploma**
-> *Hegang No. 3 High School*
+
 
 ### 💼 Work Experience
 > **2025.08 - Present** | **"Changjiang Scholar" Distinguished Professor**  
