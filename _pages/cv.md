@@ -71,15 +71,6 @@ We regularly organize group seminars, outdoor activities, conference participati
   <img src="/images/5.jpg" width="600">
 </div>
 
-
-## 🎓 Graduated Students
-
-- Zhu Wang – Jilin University  
-- Mingfei Chen – Dalian Maritime University  
-- Jiaxun Liu – Ludong University  
-- Yongxiang Dong – Nanyang Normal University  
-- Dong Wang – China University of Petroleum (Karamay Campus)
-
 ## 📢 Open Positions
 
 We are always looking for motivated Ph.D. students, Master students, and visiting scholars.
